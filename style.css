@@ -25,14 +25,14 @@ body {
     margin: 20px;
   }
   .but img:nth-child(1) {
-    width: 90px;
+    width: 66px;
     border-radius: 50px;
   }
   .but img:nth-child(2) {
-    width: 130px;
+    width: 90px;
     border-radius: 115px;
   }
   .but img:nth-child(3) {
-    width: 90px;
+    width: 66px;
     border-radius: 50px;
   }
